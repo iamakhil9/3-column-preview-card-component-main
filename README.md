@@ -18,7 +18,11 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/iamakhil9/3-column-preview-card-component-main)
+<<<<<<< HEAD
 - Live Site URL:(https://iamakhil9.github.io/3-column-preview-card-component-main/)
+=======
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+>>>>>>> 5e3737462a94bd469edda35b8ec0ace9f085bf1f
 
 ### Built with
 
